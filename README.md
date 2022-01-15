@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prit005
-- 👀 I’m interested in Artificial Intelligence,Machine Learning, Data Scienties
-- 🌱 I’m currently learning AI/ML
+- 👀 I’m interested in Artificial Intelligence,Machine Learning, Deep Learning
+- 🌱 I’m currently learning AI/ML Engineer
 - 💞️ I’m looking to collaborate on AI/ML Engineer
 - 📫 How to reach me Linkedin, Email
 
